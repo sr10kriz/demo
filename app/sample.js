@@ -10,8 +10,4 @@ person["name"] = "JoshPortialla";
 console.log(person["name"]);
 person["name"] = "JoshPortialla";
 console.log(person["name"]);
-person["name"] = "JoshPortialla";
-console.log(person["name"]);
-// OR bracket notation
-person["name"] = "JoshPortialla";
 console.log(person["name"]);
