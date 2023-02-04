@@ -4,7 +4,18 @@ let person = {
 };
 console.log(person);
 // person = object | name,age = property
-person.name = "Portialla";
+let persongh = {
+  name: "Josh",
+  age: 25,
+};
+let personbh = {
+  name: "Josh",
+  age: 25,
+};
+let personfgtyf = {
+  name: "Josh",
+  age: 25,
+};
 // dot notation (this is better choice)
 console.log(person.name);
 // OR bracket notation
